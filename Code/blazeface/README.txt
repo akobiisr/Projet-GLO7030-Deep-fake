@@ -1,0 +1,1 @@
+Implémentation Blazeface tirée de : https://github.com/hollance/BlazeFace-PyTorch
